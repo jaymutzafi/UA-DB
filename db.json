@@ -1,0 +1,37 @@
+[
+ {
+   "timestamp": "2017-11-27 05:05:00",
+   "user_info": "Fancie",
+   "event_name": "Automated",
+   "num_of_events": 413,
+   "event_id": "ad2024dc-b25e-4b2c-85d6-447b02fd2f6a"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:01",
+   "user_info": "Mellicent",
+   "event_name": "Segment",
+   "num_of_events": 204,
+   "event_id": "2007bf33-f274-43dd-848c-4273994f901a"
+ },
+ {
+   "timestamp": "2017-11-29 01:30:01",
+   "user_info": "Ingunna",
+   "event_name": "Automated",
+   "num_of_events": 155,
+   "event_id": "10a2758f-8b72-4ad8-9747-064a9fc9d078"
+ },
+ {
+   "timestamp": "2017-11-27 05:05:01",
+   "user_info": "Bob",
+   "event_name": "Segment",
+   "num_of_events": 376,
+   "event_id": "9e0314f8-6b38-4fb6-8fdb-4ab15240f636"
+ },
+ {
+   "timestamp": "2017-11-28 02:45:02",
+   "user_info": "Niels",
+   "event_name": "Unicast",
+   "num_of_events": 718,
+   "event_id": "0f1845fa-3c14-458d-be08-5d57fdf4967f"
+ },
+]
